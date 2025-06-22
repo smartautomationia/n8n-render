@@ -7,9 +7,9 @@ services:
       - key: N8N_BASIC_AUTH_ACTIVE
         value: "true"
       - key: N8N_BASIC_AUTH_USER
-        value: "admin"
+        value: "s.automation.ia@gmail.com"
       - key: N8N_BASIC_AUTH_PASSWORD
-        value: "monmotdepassefort"
+        value: "Google@map56"
       - key: N8N_HOST
         value: "0.0.0.0"
       - key: N8N_PORT
